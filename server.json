@@ -1,113 +1,664 @@
 {
   "tags": [
-    { "title": "Python", "amountOfVideos": 1 },
-    { "title": "Java", "amountOfVideos": 13 },
-    { "title": "JavaScript", "amountOfVideos": 11 },
-    { "title": "C", "amountOfVideos": 33 },
-    { "title": "C++", "amountOfVideos": 10 },
-    { "title": "C#", "amountOfVideos": 80 },
-    { "title": "PHP", "amountOfVideos": 300 },
-    { "title": "Swift", "amountOfVideos": 138 },
-    { "title": "Ruby", "amountOfVideos": 5 },
-    { "title": "Go", "amountOfVideos": 7 },
-    { "title": "TypeScript", "amountOfVideos": 5 },
-    { "title": "Kotlin", "amountOfVideos": 7 },
-    { "title": "Rust", "amountOfVideos": 8 },
-    { "title": "Perl", "amountOfVideos": 99 },
-    { "title": "R", "amountOfVideos": 45 },
-    { "title": "MATLAB", "amountOfVideos": 46 },
-    { "title": "Lua", "amountOfVideos": 190 },
-    { "title": "Shell", "amountOfVideos": 17 },
-    { "title": "HTML", "amountOfVideos": 77 },
-    { "title": "CSS", "amountOfVideos": 66 },
-    { "title": "SQL", "amountOfVideos": 154 },
-    { "title": "Dart", "amountOfVideos": 12 },
-    { "title": "Objective-C", "amountOfVideos": 34 },
-    { "title": "Assembly", "amountOfVideos": 15 },
-    { "title": "Scala", "amountOfVideos": 68 },
-    { "title": "Groovy", "amountOfVideos": 9 },
-    { "title": "Visual Basic", "amountOfVideos": 43 },
-    { "title": "Cobol", "amountOfVideos": 51 },
-    { "title": "Fortran", "amountOfVideos": 56 },
-    { "title": "Ada", "amountOfVideos": 89 },
-    { "title": "Prolog", "amountOfVideos": 90 },
-    { "title": "Lisp", "amountOfVideos": 100 },
-    { "title": "Scheme", "amountOfVideos": 101 },
-    { "title": "Haskell", "amountOfVideos": 43 },
-    { "title": "Erlang", "amountOfVideos": 21 },
-    { "title": "Elixir", "amountOfVideos": 145 },
-    { "title": "F#", "amountOfVideos": 178 },
-    { "title": "Clojure", "amountOfVideos": 97 },
-    { "title": "Apex", "amountOfVideos": 165 },
-    { "title": "ActionScript", "amountOfVideos": 113 },
-    { "title": "CoffeeScript", "amountOfVideos": 3 },
-    { "title": "Eiffel", "amountOfVideos": 113 },
-    { "title": "Forth", "amountOfVideos": 13 },
-    { "title": "Smalltalk", "amountOfVideos": 23 },
-    { "title": "Tcl", "amountOfVideos": 145 },
-    { "title": "ABAP", "amountOfVideos": 56 },
-    { "title": "Apex", "amountOfVideos": 17 },
-    { "title": "APL", "amountOfVideos": 22 },
-    { "title": "AWK", "amountOfVideos": 34 },
-    { "title": "Batch", "amountOfVideos": 2 },
-    { "title": "Bourne Shell", "amountOfVideos": 113 },
-    { "title": "C Shell", "amountOfVideos": 113 },
-    { "title": "CFML", "amountOfVideos": 113 },
-    { "title": "Clipper", "amountOfVideos": 113 },
-    { "title": "COBOL", "amountOfVideos": 113 },
-    { "title": "ColdFusion", "amountOfVideos": 113 },
-    { "title": "Common Lisp", "amountOfVideos": 113 },
-    { "title": "Crystal", "amountOfVideos": 113 },
-    { "title": "D", "amountOfVideos": 113 },
-    { "title": "Eiffel", "amountOfVideos": 113 },
-    { "title": "Elm", "amountOfVideos": 113 },
-    { "title": "Emacs Lisp", "amountOfVideos": 113 },
-    { "title": "SQL", "amountOfVideos": 113 },
-    { "title": "Elixir", "amountOfVideos": 113 },
-    { "title": "Forth", "amountOfVideos": 113 },
-    { "title": "Cobol", "amountOfVideos": 113 },
-    { "title": "Ada", "amountOfVideos": 113 },
-    { "title": "Porlog", "amountOfVideos": 113 },
-    { "title": "F#", "amountOfVideos": 113 },
-    { "title": "Clojure", "amountOfVideos": 113 },
-    { "title": "Apex", "amountOfVideos": 113 },
-    { "title": "ActionScript", "amountOfVideos": 113 },
-    { "title": "Eiffel", "amountOfVideos": 113 },
-    { "title": "Lua", "amountOfVideos": 113 },
-    { "title": "Forth", "amountOfVideos": 113 },
-    { "title": "Smalltalk", "amountOfVideos": 113 },
-    { "title": "Tcl", "amountOfVideos": 113 },
-    { "title": "ABAP", "amountOfVideos": 113 },
-    { "title": "Flash", "amountOfVideos": 113 },
-    { "title": "Apex", "amountOfVideos": 113 },
-    { "title": "AWS", "amountOfVideos": 113 },
-    { "title": "APL", "amountOfVideos": 113 },
-    { "title": "AWK", "amountOfVideos": 113 },
-    { "title": "Azure", "amountOfVideos": 113 },
-    { "title": "GCP", "amountOfVideos": 113 },
-    { "title": "Batch", "amountOfVideos": 113 },
-    { "title": "Bourne Shell", "amountOfVideos": 113 },
-    { "title": "C Shell", "amountOfVideos": 113 },
-    { "title": "YAML", "amountOfVideos": 113 },
-    { "title": "CFML", "amountOfVideos": 113 },
-    { "title": "Delphi", "amountOfVideos": 113 },
-    { "title": "Clipper", "amountOfVideos": 113 },
-    { "title": "ColdFusion", "amountOfVideos": 113 },
-    { "title": "Common Lisp", "amountOfVideos": 113 },
-    { "title": "Crystal", "amountOfVideos": 233 },
-    { "title": "D", "amountOfVideos": 113 },
-    { "title": "Java", "amountOfVideos": 56 },
-    { "title": "Loke", "amountOfVideos": 78 },
-    { "title": "Io", "amountOfVideos": 90 },
-    { "title": "IDL", "amountOfVideos": 12 },
-    { "title": "Hy", "amountOfVideos": 113 },
-    { "title": "Handlebars", "amountOfVideos": 113 },
-    { "title": "Angular", "amountOfVideos": 113 },
-    { "title": "Angularjs", "amountOfVideos": 3 },
-    { "title": "Vue", "amountOfVideos": 113 },
-    { "title": "Next", "amountOfVideos": 313 },
-    { "title": "Nest", "amountOfVideos": 43 },
-    { "title": "Go", "amountOfVideos": 113 },
-    { "title": "Node", "amountOfVideos": 333 }
+    {
+      "title": "Python",
+      "amountOfVideos": 1,
+      "slug": "old",
+      "id": "8f22"
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 13,
+      "slug": "old",
+      "id": "b354"
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 11,
+      "slug": "old",
+      "id": "4b5f"
+    },
+    {
+      "title": "C",
+      "amountOfVideos": 33,
+      "slug": "old",
+      "id": "4b4f"
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 10,
+      "slug": "old",
+      "id": "a133"
+    },
+    {
+      "title": "C#",
+      "amountOfVideos": 80,
+      "slug": "old",
+      "id": "11ec"
+    },
+    {
+      "title": "PHP",
+      "amountOfVideos": 300,
+      "slug": "old",
+      "id": "b79c"
+    },
+    {
+      "title": "Swift",
+      "amountOfVideos": 138,
+      "slug": "old",
+      "id": "71fe"
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 5,
+      "slug": "old",
+      "id": "67b4"
+    },
+    {
+      "title": "Go",
+      "amountOfVideos": 7,
+      "slug": "old",
+      "id": "90e4"
+    },
+    {
+      "title": "TypeScript",
+      "amountOfVideos": 5,
+      "slug": "old",
+      "id": "4da9"
+    },
+    {
+      "title": "Kotlin",
+      "amountOfVideos": 7,
+      "slug": "old",
+      "id": "3a14"
+    },
+    {
+      "title": "Rust",
+      "amountOfVideos": 8,
+      "slug": "old",
+      "id": "0130"
+    },
+    {
+      "title": "Perl",
+      "amountOfVideos": 99,
+      "slug": "old",
+      "id": "a9b0"
+    },
+    {
+      "title": "R",
+      "amountOfVideos": 45,
+      "slug": "old",
+      "id": "1a96"
+    },
+    {
+      "title": "MATLAB",
+      "amountOfVideos": 46,
+      "slug": "old",
+      "id": "2a62"
+    },
+    {
+      "title": "Lua",
+      "amountOfVideos": 190,
+      "slug": "old",
+      "id": "a421"
+    },
+    {
+      "title": "Shell",
+      "amountOfVideos": 17,
+      "slug": "old",
+      "id": "cf7a"
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 77,
+      "slug": "old",
+      "id": "f158"
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 66,
+      "slug": "old",
+      "id": "5fd2"
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 154,
+      "slug": "old",
+      "id": "cbda"
+    },
+    {
+      "title": "Dart",
+      "amountOfVideos": 12,
+      "slug": "old",
+      "id": "dcf1"
+    },
+    {
+      "title": "Objective-C",
+      "amountOfVideos": 34,
+      "slug": "old",
+      "id": "e5a5"
+    },
+    {
+      "title": "Assembly",
+      "amountOfVideos": 15,
+      "slug": "old",
+      "id": "f248"
+    },
+    {
+      "title": "Scala",
+      "amountOfVideos": 68,
+      "slug": "old",
+      "id": "73d7"
+    },
+    {
+      "title": "Groovy",
+      "amountOfVideos": 9,
+      "slug": "old",
+      "id": "43ac"
+    },
+    {
+      "title": "Visual Basic",
+      "amountOfVideos": 43,
+      "slug": "old",
+      "id": "d5c6"
+    },
+    {
+      "title": "Cobol",
+      "amountOfVideos": 51,
+      "slug": "old",
+      "id": "2ac9"
+    },
+    {
+      "title": "Fortran",
+      "amountOfVideos": 56,
+      "slug": "old",
+      "id": "402f"
+    },
+    {
+      "title": "Ada",
+      "amountOfVideos": 89,
+      "slug": "old",
+      "id": "f2f5"
+    },
+    {
+      "title": "Prolog",
+      "amountOfVideos": 90,
+      "slug": "old",
+      "id": "e58a"
+    },
+    {
+      "title": "Lisp",
+      "amountOfVideos": 100,
+      "slug": "old",
+      "id": "cd93"
+    },
+    {
+      "title": "Scheme",
+      "amountOfVideos": 101,
+      "slug": "old",
+      "id": "d08e"
+    },
+    {
+      "title": "Haskell",
+      "amountOfVideos": 43,
+      "slug": "old",
+      "id": "386f"
+    },
+    {
+      "title": "Erlang",
+      "amountOfVideos": 21,
+      "slug": "old",
+      "id": "3d86"
+    },
+    {
+      "title": "Elixir",
+      "amountOfVideos": 145,
+      "slug": "old",
+      "id": "a404"
+    },
+    {
+      "title": "F#",
+      "amountOfVideos": 178,
+      "slug": "old",
+      "id": "c0e8"
+    },
+    {
+      "title": "Clojure",
+      "amountOfVideos": 97,
+      "slug": "old",
+      "id": "a059"
+    },
+    {
+      "title": "Apex",
+      "amountOfVideos": 165,
+      "slug": "old",
+      "id": "ee81"
+    },
+    {
+      "title": "ActionScript",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "9a1a"
+    },
+    {
+      "title": "CoffeeScript",
+      "amountOfVideos": 3,
+      "slug": "old",
+      "id": "555c"
+    },
+    {
+      "title": "Eiffel",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "4dc1"
+    },
+    {
+      "title": "Forth",
+      "amountOfVideos": 13,
+      "slug": "old",
+      "id": "f9ab"
+    },
+    {
+      "title": "Smalltalk",
+      "amountOfVideos": 23,
+      "slug": "old",
+      "id": "f12c"
+    },
+    {
+      "title": "Tcl",
+      "amountOfVideos": 145,
+      "slug": "old",
+      "id": "4898"
+    },
+    {
+      "title": "ABAP",
+      "amountOfVideos": 56,
+      "slug": "old",
+      "id": "6d77"
+    },
+    {
+      "title": "Apex",
+      "amountOfVideos": 17,
+      "slug": "old",
+      "id": "17bb"
+    },
+    {
+      "title": "APL",
+      "amountOfVideos": 22,
+      "slug": "old",
+      "id": "1979"
+    },
+    {
+      "title": "AWK",
+      "amountOfVideos": 34,
+      "slug": "old",
+      "id": "50e0"
+    },
+    {
+      "title": "Batch",
+      "amountOfVideos": 2,
+      "slug": "old",
+      "id": "edd7"
+    },
+    {
+      "title": "Bourne Shell",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "7fe8"
+    },
+    {
+      "title": "C Shell",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "3d44"
+    },
+    {
+      "title": "CFML",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "dce4"
+    },
+    {
+      "title": "Clipper",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "d787"
+    },
+    {
+      "title": "COBOL",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "10ce"
+    },
+    {
+      "title": "ColdFusion",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "949f"
+    },
+    {
+      "title": "Common Lisp",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "8300"
+    },
+    {
+      "title": "Crystal",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "88e1"
+    },
+    {
+      "title": "D",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "1d2d"
+    },
+    {
+      "title": "Eiffel",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "097d"
+    },
+    {
+      "title": "Elm",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "ceab"
+    },
+    {
+      "title": "Emacs Lisp",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "d910"
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "8fc7"
+    },
+    {
+      "title": "Elixir",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "c3c7"
+    },
+    {
+      "title": "Forth",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "7022"
+    },
+    {
+      "title": "Cobol",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "6b3f"
+    },
+    {
+      "title": "Ada",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "ea84"
+    },
+    {
+      "title": "Porlog",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "6449"
+    },
+    {
+      "title": "F#",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "18c4"
+    },
+    {
+      "title": "Clojure",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "31bc"
+    },
+    {
+      "title": "Apex",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "7644"
+    },
+    {
+      "title": "ActionScript",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "8842"
+    },
+    {
+      "title": "Eiffel",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "23de"
+    },
+    {
+      "title": "Lua",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "4c87"
+    },
+    {
+      "title": "Forth",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "79c7"
+    },
+    {
+      "title": "Smalltalk",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "cd91"
+    },
+    {
+      "title": "Tcl",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "e64d"
+    },
+    {
+      "title": "ABAP",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "9aa7"
+    },
+    {
+      "title": "Flash",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "d7a2"
+    },
+    {
+      "title": "Apex",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "e377"
+    },
+    {
+      "title": "AWS",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "043a"
+    },
+    {
+      "title": "APL",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "7df1"
+    },
+    {
+      "title": "AWK",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "e349"
+    },
+    {
+      "title": "Azure",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "836a"
+    },
+    {
+      "title": "GCP",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "a8a9"
+    },
+    {
+      "title": "Batch",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "761b"
+    },
+    {
+      "title": "Bourne Shell",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "61ec"
+    },
+    {
+      "title": "C Shell",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "1dbd"
+    },
+    {
+      "title": "YAML",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "3d3a"
+    },
+    {
+      "title": "CFML",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "be8b"
+    },
+    {
+      "title": "Delphi",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "c697"
+    },
+    {
+      "title": "Clipper",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "47c8"
+    },
+    {
+      "title": "ColdFusion",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "ecae"
+    },
+    {
+      "title": "Common Lisp",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "4aed"
+    },
+    {
+      "title": "Crystal",
+      "amountOfVideos": 233,
+      "slug": "old",
+      "id": "0f5f"
+    },
+    {
+      "title": "D",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "fb5f"
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 56,
+      "slug": "old",
+      "id": "5243"
+    },
+    {
+      "title": "Loke",
+      "amountOfVideos": 78,
+      "slug": "old",
+      "id": "8459"
+    },
+    {
+      "title": "Io",
+      "amountOfVideos": 90,
+      "slug": "old",
+      "id": "07e8"
+    },
+    {
+      "title": "IDL",
+      "amountOfVideos": 12,
+      "slug": "old",
+      "id": "1f70"
+    },
+    {
+      "title": "Hy",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "2dfe"
+    },
+    {
+      "title": "Handlebars",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "b567"
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "4ce5"
+    },
+    {
+      "title": "Angularjs",
+      "amountOfVideos": 3,
+      "slug": "old",
+      "id": "ab6c"
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "ec9e"
+    },
+    {
+      "title": "Next",
+      "amountOfVideos": 313,
+      "slug": "old",
+      "id": "20da"
+    },
+    {
+      "title": "Nest",
+      "amountOfVideos": 43,
+      "slug": "old",
+      "id": "cf84"
+    },
+    {
+      "title": "Go",
+      "amountOfVideos": 113,
+      "slug": "old",
+      "id": "1537"
+    },
+    {
+      "title": "Node",
+      "amountOfVideos": 333,
+      "slug": "old",
+      "id": "cb26"
+    },
+    {
+      "id": "af91",
+      "title": "teste ph",
+      "slug": "teste-ph",
+      "amountOfVideos": 0
+    }
   ]
 }
